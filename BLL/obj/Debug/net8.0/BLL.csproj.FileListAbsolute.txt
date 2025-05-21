@@ -1,0 +1,34 @@
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\BLL.dll
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\BLL.pdb
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\DAL.dll
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\Entity.dll
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\DAL.pdb
+D:\DAS-Parcial1\BLL\bin\Debug\net8.0\Entity.pdb
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.dll
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\BLL.pdb
+D:\DAS-Parcial1\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\Entity.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\BLL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.csproj.CopyComplete
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\BLL\obj\Debug\net8.0\ref\BLL.dll

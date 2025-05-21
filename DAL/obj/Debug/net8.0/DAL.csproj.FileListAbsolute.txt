@@ -1,0 +1,30 @@
+D:\DAS-Parcial1\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\DAS-Parcial1\DAL\bin\Debug\net8.0\DAL.dll
+D:\DAS-Parcial1\DAL\bin\Debug\net8.0\DAL.pdb
+D:\DAS-Parcial1\DAL\bin\Debug\net8.0\Entity.dll
+D:\DAS-Parcial1\DAL\bin\Debug\net8.0\Entity.pdb
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.dll
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\DAL.pdb
+D:\DAS-Parcial1\DAL\obj\Debug\net8.0\ref\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\Users\Navegador\Desktop\Demo parcial\DAL\bin\Debug\net8.0\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\DAL\bin\Debug\net8.0\DAL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\DAL\bin\Debug\net8.0\Entity.dll
+C:\Users\Navegador\Desktop\Demo parcial\DAL\bin\Debug\net8.0\Entity.pdb
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\DAL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\DAL\obj\Debug\net8.0\ref\DAL.dll

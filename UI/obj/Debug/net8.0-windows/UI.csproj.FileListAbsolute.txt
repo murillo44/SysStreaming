@@ -1,0 +1,62 @@
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.exe
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.dll.config
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.deps.json
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\UI.pdb
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\BLL.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\DAL.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\Entity.dll
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\BLL.pdb
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\Entity.pdb
+D:\DAS-Parcial1\UI\bin\Debug\net8.0-windows\DAL.pdb
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.csproj.CopyComplete
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.dll
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\refint\UI.dll
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.pdb
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+D:\DAS-Parcial1\UI\obj\Debug\net8.0-windows\ref\UI.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.exe
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.dll.config
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.deps.json
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.runtimeconfig.json
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\UI.pdb
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\BLL.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\DAL.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\Entity.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\BLL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\Entity.pdb
+C:\Users\Navegador\Desktop\Demo parcial\UI\bin\Debug\net8.0-windows\DAL.pdb
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.csproj.AssemblyReference.cache
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.Form1.resources
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.csproj.GenerateResource.cache
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.AssemblyInfoInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.AssemblyInfo.cs
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.csproj.CopyComplete
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\refint\UI.dll
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.pdb
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\UI.genruntimeconfig.cache
+C:\Users\Navegador\Desktop\Demo parcial\UI\obj\Debug\net8.0-windows\ref\UI.dll
