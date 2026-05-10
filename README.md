@@ -1,39 +1,35 @@
-📦 SysStreaming (Partial Solution)
+SysStreaming
 
-This is a CRUD project developed in C# with Windows Forms and ADO.NET, aimed at managing entities through a database. The goal of the project is to practice using layered architecture and interacting with a database using ADO.NET without ORM frameworks.
+SysStreaming es un proyecto CRUD desarrollado en C# con Windows Forms y ADO.NET, orientado a la gestión de entidades a través de una base de datos relacional. El objetivo principal es practicar arquitectura en capas e interacción directa con la base de datos sin el uso de frameworks ORM.
 
-🏗️ Project Structure
-UI: Graphical interface developed with Windows Forms.
+Solución parcial — en desarrollo.
 
-BLL (Business Logic Layer): Contains the business logic of the system.
 
-DAL (Data Access Layer): Layer responsible for the connection and execution of commands on the database.
+Estructura del proyecto
+UI/        → Interfaz gráfica desarrollada con Windows Forms
+BLL/       → Lógica de negocio (Business Logic Layer)
+DAL/       → Acceso a datos y ejecución de comandos sobre la base de datos (Data Access Layer)
+Entity/    → Clases que representan las entidades del modelo de datos
+Mapper/    → Traducción entre entidades y resultados de base de datos
+.sln       → Archivo de solución de Visual Studio
 
-Entity: Classes representing the data model entities.
+Funcionalidades
 
-Mapper: Translates between entities and database results.
+ABM completo de registros (alta, baja y modificación)
+Conexión directa a la base de datos mediante SqlConnection de ADO.NET
+Arquitectura en capas con separación de responsabilidades
 
-.sln: Visual Studio solution file.
 
 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/f8d72752-38a1-4073-9dc1-ebd7319682c9)
 
-💡 Features
+Tecnologías utilizadas
 
-List, add, update, and delete records.
-
-Direct connection to the database using ADO.NET’s SqlConnection.
-
-Layered architecture to maintain separation of concerns.
-
-🧰 Technologies used
-
-Language: C#
-
-IDE: Visual Studio
-
-Database: SQL Server
-
-Data access: ADO.NET
+Lenguaje: C# (.NET Framework)
+UI: Windows Forms (WinForms)
+Acceso a datos: ADO.NET (SqlConnection, SqlCommand, SqlDataReader)
+Base de datos: SQL Server
+Entorno de desarrollo: Visual Studio
 
 
+Proyecto universitario desarrollado para la práctica de arquitectura en capas y acceso a datos con ADO.NET.
